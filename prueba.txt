@@ -1,3 +1,6 @@
 primer archivo de texto
 
+
 Primera modificación archivo en rama master
+
+Texto modificado en rama branch1
